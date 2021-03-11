@@ -1,0 +1,17 @@
+/* bg */
+
+.bg{
+    background-color: #ead5e9;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.bg img{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    width: 30%;
+}
